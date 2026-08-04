@@ -86,3 +86,5 @@ del frutas[-2:]                # remove os 2 últimos
 print("Após del frutas[-2:]:", frutas)
 
 print("testeando")
+
+print(testando parte 2)
