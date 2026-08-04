@@ -84,3 +84,5 @@ print("\nApós del frutas[0]:", frutas)
 # del com slice
 del frutas[-2:]                # remove os 2 últimos
 print("Após del frutas[-2:]:", frutas)
+
+print("testeando")
